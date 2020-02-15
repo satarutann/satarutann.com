@@ -4,7 +4,7 @@ title = "潰す潰れる詐欺"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
+disqusShortname = "kui-sukui-reruzha-qi"
 googleAnalytics = ""
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
@@ -80,9 +80,9 @@ canonifyURLs = true
   repo      = ""
   branch    = ""
 
-  [params.staticman.recaptcha]
-    sitekey = "SITE_KEY"
-    secret  = "ENCRYPTED_SECRET"
+  # [params.staticman.recaptcha]
+  #   sitekey = "SITE_KEY"
+  #   secret  = "ENCRYPTED_SECRET"
 
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
@@ -91,12 +91,12 @@ canonifyURLs = true
 
   paragraph = "思ったこととか気がついたことを書いていく意味の分からないブログ"
 
-  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  about     = "プログラマー兼システムエンジニアでインターネットの色々なサービスでサタルタンという名前で生息中"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
-    src       = "/img/main/logo.jpg"
+    src       = "/img/main/icon.jpg"
     # Sets Image to be a cirlce
     circle    = false
     # Sets Image to be Future Imperfect's hexagon
@@ -106,7 +106,7 @@ canonifyURLs = true
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    sidebar = 5
+    sidebar = 3
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
@@ -117,27 +117,27 @@ canonifyURLs = true
   weight = 1
 
 [[menu.main]]
-  name = "About"
-  url = "/about/"
-  identifier = "fa fa-id-card-o"
+  name = "ゲーム実況"
+  url = "/ゲーム実況/"
+  identifier = "fa fa-gamecommentary-o"
   weight = 2
 
 [[menu.main]]
-  name = "Blog"
-  url = "/blog/"
-  identifier = "fa fa-newspaper-o"
+  name = "モナコインはじめました。"
+  url = "/モナコインはじめました。/"
+  identifier = "fa fa-monacoin-o"
   weight = 3
 
 [[menu.main]]
-  name = "Itemized"
-  url = "/itemized/"
-  identifier = "fa fa-list"
+  name = "所有するガジェット等"
+  url = "/所有するガジェット等/"
+  identifier = "fa fa-gadgetsetc-o"
   weight = 4
 
 [[menu.main]]
-  name = "Categories"
-  url = "/categories/"
-  identifier = "fa fa-sitemap"
+  name = "欲しいもの一覧"
+  url = "/欲しいもの一覧/"
+  identifier = "fa fa-wishlist-o"
   weight = 5
 
 [[menu.main]]
@@ -145,6 +145,12 @@ canonifyURLs = true
   url = "/contact/"
   identifier = "fa fa-envelope-o"
   weight = 6
+
+# [[menu.main]]
+#   name = "About"
+#   url = "/about/"
+#   identifier = "fa fa-id-card-o"
+#   weight = 7
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
@@ -185,7 +191,7 @@ canonifyURLs = true
   # instagram        = "example"
   # tumblr           = ""
   twitter          = "satarutann"
-  skype            = "satarutann"
+  # skype            = "satarutann"
   # snapchat         = ""
   # pinterest        = "example"
   # telegram         = "example"
@@ -194,4 +200,6 @@ canonifyURLs = true
   # orcid            = ""
   # researchgate     = "example"
   # Email
-  email            = "example"
+  # email            = "example"
+
+
