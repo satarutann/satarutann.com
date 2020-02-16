@@ -1,29 +1,25 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "サタルタンのプロフィール"
+date = "2019-02-16"
 +++
 
-Hugo is a static site engine written in Go.
+# 経歴
+1. 大学卒業
+2. WEB系の会社でPHPとPerlを使いつつHTMLとCSSでWEBサイト構築やサーバー管理（CentOSメイン）
+3. WEB系の特定派遣会社（今だとすべて一般なんだよなぁ）に転職してJavaメインのHTMLとCSSでWEBシステム構築系を色々やる
+4. 派遣系の会社に転職してC#とCとC++で苦しみながらシステムエンジニア的な活動メイン
 
+大体29歳のエンジニア（2020年2月17日現在）
 
-It makes use of a variety of open source projects including:
+# 使える言語
+- Perl（これ今思うと嫌いだなー）
+- PHP（自由度ありすぎなのにフレームワークで自由度絞ったりして大変そうだし速度が早くなっても遅く感じるなー）
+- C、C++（仕事上できるようになってきたけど超嫌いだ）
+- C#（単体テストがJavaと比べると微妙だけどLinQは便利。あとJavaより立ち上がり早い気がするしメモリが低めな気もする。）
+- JavaScript（WEBやってるとできるようになったし読めるようになった）
+- Node.JS（厳密にはJavaScriptだけどプライベートでちょっと触った）
+- Python（最近流行りだからやってみたけど走り出しが超早く感じるゴリゴリ処理しないならこれで十分じゃんって思ったけど大掛かりになる可能性あるのにこれ選ぶ人信じれない）
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+# ひとこと
+個人的な意見だけど、インターネットのサタルタンとリアルな世界で働いてるサタルタンは別物として捉えて生きている。  
+リアルだと当然敬語を使って粛々と生きてるが、インターネットだといちいち敬語とかいう無駄なことをしなくていいんでね？ってのが個人的に思ってます。

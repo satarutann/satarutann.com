@@ -119,31 +119,31 @@ canonifyURLs = true
 [[menu.main]]
   name = "ゲーム実況"
   url = "/ゲーム実況/"
-  identifier = "fa fa-gamecommentary-o"
+  identifier = "fa fa-gamepad"
   weight = 2
 
 [[menu.main]]
   name = "モナコインはじめました。"
   url = "/モナコインはじめました。/"
-  identifier = "fa fa-monacoin-o"
+  identifier = "fa fa-btc"
   weight = 3
 
 [[menu.main]]
   name = "所有するガジェット等"
   url = "/所有するガジェット等/"
-  identifier = "fa fa-gadgetsetc-o"
+  identifier = "fa fa-tablet"
   weight = 4
 
 [[menu.main]]
   name = "欲しいもの一覧"
   url = "/欲しいもの一覧/"
-  identifier = "fa fa-wishlist-o"
+  identifier = "fa fa-list"
   weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  identifier = "fa fa-envelope-o"
+  identifier = "fa fa-envelope-open-o"
   weight = 6
 
 # [[menu.main]]
