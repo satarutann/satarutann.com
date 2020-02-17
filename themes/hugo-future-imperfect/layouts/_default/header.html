@@ -1,4 +1,13 @@
 <header>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-62007662-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-62007662-1');
+    </script>
+
     <div class="title">
         {{ if $.Scratch.Get "h1" }}
             <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
