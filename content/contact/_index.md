@@ -1,5 +1,5 @@
 +++
-title = "Contact"
+title = "問い合わせ"
 type = "contact"
 netlify = true
 emailservice = ""
@@ -7,5 +7,4 @@ contactname = "Your Name"
 contactemail = "Your Email Address"
 contactmessage = "Your Message"
 +++
-現在動作しません。  
-理由は単純で
+仕事の依頼や問い合わせはこちら  
