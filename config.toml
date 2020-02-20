@@ -13,7 +13,7 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "思ったこととか気がついたことを書いていく意味の分からないブログ"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "潰す潰れる詐欺"
   # Sets where "View More Posts" links
