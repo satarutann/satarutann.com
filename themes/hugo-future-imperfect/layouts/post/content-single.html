@@ -19,5 +19,8 @@
   </footer>
 
 </article>
-{{ .Render "comments" }}
+{{ if ne  .IsHome true}}
+  {{ .Render "comments" }}
+{{ end }}
+
 {{ .Render "prev-next" }}
