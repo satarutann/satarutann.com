@@ -30,7 +30,7 @@ categories:
 
 以下のスクリーンショットを御覧ください。
 
-[{{< figure src="/img/2016/03/Screenshot_20160320-123300-169x300.png" width="169" height="300" >}}][1]
+{{< figure src="/img/2016/03/Screenshot_20160320-123300-169x300.png" width="169" height="300" link="https://i0.wp.com/satarutann.com/wp-content/uploads/2016/03/Screenshot_20160320-123300.png?ssl=1" >}}
 
 これはアップデート後のバッテリー使用度です。
 
@@ -72,7 +72,7 @@ _TouchWiz_というサムスンオリジナルホームアプリの一番左の�
 
 以下を御覧ください。
 
-[{{< figure src="/img/2016/03/Screenshot_20160320-125322.png" width="169" height="300" >}}][2]
+{{< figure src="/img/2016/03/Screenshot_20160320-125322.png" width="169" height="300" link="https://i0.wp.com/satarutann.com/wp-content/uploads/2016/03/Screenshot_20160320-125322.png?ssl=1" >}}
 
 オプション内にスマートマネージャーが統合されました。
 
@@ -155,5 +155,3 @@ _TouchWiz_というサムスンオリジナルホームアプリの一番左の�
 
 ではでは
 
- [1]: https://i0.wp.com/satarutann.com/wp-content/uploads/2016/03/Screenshot_20160320-123300.png?ssl=1
- [2]: https://i0.wp.com/satarutann.com/wp-content/uploads/2016/03/Screenshot_20160320-125322.png?ssl=1

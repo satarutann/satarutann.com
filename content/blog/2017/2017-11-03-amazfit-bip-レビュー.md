@@ -13,13 +13,14 @@ categories:
 サタルタンです。
 
 Xiaomi Huami AMAZFIT Bipというスマートウォッチを買いました。
-[{{< figure src="/img/2017/11/IMG_20171028_160951-225x300.jpg" width="225" height="300"  >}}][1]
+
+{{< figure src="/img/2017/11/IMG_20171028_160951-225x300.jpg" width="225" height="300" link="https://i0.wp.com/satarutann.com/wp-content/uploads/2017/11/IMG_20171028_160951.jpg?ssl=1">}}
 
 他にも色々買っているのですが、レビューが久々なのでこのAmazFit Bipを紹介します。
 
 <!--more-->
 
-まず、購入は[こちら][2]で購入しました。
+まず、購入は[こちら][1]で購入しました。
   
 （アフィリエイトのつもり無いのでそういうリンクでないはず）
 
@@ -74,7 +75,7 @@ Xiaomi Huami AMAZFIT Bipというスマートウォッチを買いました。
 
 ちなみに、レビュー系は
 
-[こちら][3]と[こちら][4]を参考にしてください。
+[こちら][2]と[こちら][3]を参考にしてください。
 
 めちゃめちゃ買うか迷うきっかけになった良ブログです。
 
@@ -88,11 +89,11 @@ Xiaomi Huami AMAZFIT Bipというスマートウォッチを買いました。
 
 &nbsp;
 
-私は「[Notify & Fitness for Amazfit][5]」を少し紹介します。
+私は「[Notify & Fitness for Amazfit][4]」を少し紹介します。
 
 画面はこんな感じです。
 
-[{{< figure src="/img/2017/11/Screenshot_20171103-005629-169x300.png" width="169" height="300" >}}][6]
+{{< figure src="/img/2017/11/Screenshot_20171103-005629-169x300.png" width="169" height="300" link="https://i2.wp.com/satarutann.com/wp-content/uploads/2017/11/Screenshot_20171103-005629.png?ssl=1" >}}
 
 まず、公式アプリだと睡眠が思ったように測れなかった上、心拍数もスポーツモードみたいなのにしなければなりませんでした。
 
@@ -134,9 +135,9 @@ Xiaomi Huami AMAZFIT Bipというスマートウォッチを買いました。
 
 以上！よろしくお願い致します。
 
- [1]: https://i0.wp.com/satarutann.com/wp-content/uploads/2017/11/IMG_20171028_160951.jpg?ssl=1
- [2]: https://www.gearbest.com/smart-watches/pp_668632.html
- [3]: http://kazuhiro-geek.com/blog/2017/09/02/xiaomi-huami-amazfit-bip-matome/
- [4]: http://himagadmi.com/2017/09/04/post-6471/
- [5]: https://play.google.com/store/apps/details?id=com.mc.amazfit1&hl=ja
- [6]: https://i2.wp.com/satarutann.com/wp-content/uploads/2017/11/Screenshot_20171103-005629.png?ssl=1
+
+ [1]: https://www.gearbest.com/smart-watches/pp_668632.html
+ [2]: http://kazuhiro-geek.com/blog/2017/09/02/xiaomi-huami-amazfit-bip-matome/
+ [3]: http://himagadmi.com/2017/09/04/post-6471/
+ [4]: https://play.google.com/store/apps/details?id=com.mc.amazfit1&hl=ja
+
