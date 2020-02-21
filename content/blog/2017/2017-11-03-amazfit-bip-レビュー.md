@@ -8,13 +8,14 @@ categories:
   - レビュー
 
 ---
+
 お久しぶりです。
 
 サタルタンです。
 
 Xiaomi Huami AMAZFIT Bipというスマートウォッチを買いました。
 
-{{< figure src="/img/2017/11/IMG_20171028_160951-225x300.jpg" width="225" height="300" link="https://i0.wp.com/satarutann.com/wp-content/uploads/2017/11/IMG_20171028_160951.jpg?ssl=1">}}
+
 
 他にも色々買っているのですが、レビューが久々なのでこのAmazFit Bipを紹介します。
 
@@ -23,6 +24,8 @@ Xiaomi Huami AMAZFIT Bipというスマートウォッチを買いました。
 まず、購入は[こちら][1]で購入しました。
   
 （アフィリエイトのつもり無いのでそういうリンクでないはず）
+
+{{< figure src="/img/2017/11/IMG_20171028_160951-225x300.jpg" width="225" height="300" link="https://i0.wp.com/satarutann.com/wp-content/uploads/2017/11/IMG_20171028_160951.jpg?ssl=1">}}
 
 買い方は他に色々あるので探してみてください。
 
