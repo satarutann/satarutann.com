@@ -25,7 +25,7 @@ Xiaomi Huami AMAZFIT Bipというスマートウォッチを買いました。
   
 （アフィリエイトのつもり無いのでそういうリンクでないはず）
 
-{{< figure src="/img/2017/11/IMG_20171028_160951-225x300.jpg" width="225" height="300" link="https://i0.wp.com/satarutann.com/wp-content/uploads/2017/11/IMG_20171028_160951.jpg?ssl=1">}}
+{{< figure src="/img/2017/11/IMG_20171028_160951-225x300.jpg" width="225" height="300" link="/img/2017/11/IMG_20171028_160951.jpg">}}
 
 買い方は他に色々あるので探してみてください。
 
@@ -96,7 +96,7 @@ Xiaomi Huami AMAZFIT Bipというスマートウォッチを買いました。
 
 画面はこんな感じです。
 
-{{< figure src="/img/2017/11/Screenshot_20171103-005629-169x300.png" width="169" height="300" link="https://i2.wp.com/satarutann.com/wp-content/uploads/2017/11/Screenshot_20171103-005629.png?ssl=1" >}}
+{{< figure src="/img/2017/11/Screenshot_20171103-005629-169x300.png" width="169" height="300" link="/img/2017/11/Screenshot_20171103-005629.png" >}}
 
 まず、公式アプリだと睡眠が思ったように測れなかった上、心拍数もスポーツモードみたいなのにしなければなりませんでした。
 
