@@ -28,7 +28,8 @@ type = "post"
 {{< figure src="/img/2020/05/EW3ZewkVAAA0V_N.jpg" width="180" link="/img/2020/05/EW3ZewkVAAA0V_N.jpg">}}
 
 ### 手順
-**すべて自己責任でお願いいたします。**
+**すべて自己責任でお願いいたします。**  
+
 1. Log Kit app’sというアプリをダウンロード
 2. 上記アプリをインストール
 3. 電話アプリで「*#800#」を入力
