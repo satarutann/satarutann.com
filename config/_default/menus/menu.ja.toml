@@ -1,0 +1,68 @@
+[[main]]
+name = "Home"
+url = ""
+identifier = "fa fa-home"
+weight = -100
+
+[[main]]
+name = "ゲーム実況"
+url = "/ゲーム実況/"
+identifier = "fa fa-gamepad"
+weight = 2
+
+[[main]]
+name = "所有するガジェット等"
+url = "/所有するガジェット等/"
+identifier = "fa fa-tablet"
+weight = 4
+
+[[main]]
+name = "欲しいもの一覧"
+url = "/欲しいもの一覧/"
+identifier = "fa fa-list"
+weight = 5
+
+[[main]]
+name = "Contact"
+url = "/contact/"
+identifier = "fa fa-envelope-open-o"
+weight = 6
+
+# social menu links
+
+[[social]]
+name = "youtube"
+type = "social"
+weight = 1
+url = "https://www.youtube.com/channel/UCHeDJPjzq70s_gLf1aw8jZg"
+[[social]]
+name = "github"
+type = "social"
+weight = 2
+url = "https://github.com/satarutann"
+[[social]]
+name = "twitter"
+weight = 3
+url = "https://twitter.com/satarutann"
+[[social]]
+name = "Twitch"
+weight = 4
+url = "https://www.twitch.tv/satarutann"
+[[social]]
+name = "rss"
+weight = 5
+url = "index.xml"
+
+# other supported social links
+# name = "youtube"
+# url = "https://www.youtube.com/#"
+# name = "facebook"
+# url = "https://facebook.com/#"
+# name = "instagram"
+# url = "https://instagram.com/#"
+# name = "stackoverflow"
+# url = "https://stackoverflow.com/#"
+# name = "gitlab"
+# url = "https://gitlab.com/#"
+# name = "discord"
+# url = "https://discord.gg/#"
